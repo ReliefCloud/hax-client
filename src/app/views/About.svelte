@@ -20,8 +20,8 @@
 
 <FlexColumn class="gap-8">
   <div class="flex flex-col items-center justify-center">
-    <Heading>Coracle</Heading>
-    <h2>An experimental nostr client</h2>
+    <Heading>ReliefCloud</Heading>
+    <h2>ReliefCloud is a social media platform for shareing humanitarian relief activites</h2>
     {#if hash}
       <p class="mt-1 text-xs">Running build {hash.slice(0, 8)}</p>
     {/if}
